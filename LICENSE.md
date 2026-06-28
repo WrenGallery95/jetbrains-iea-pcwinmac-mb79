@@ -1,4 +1,4 @@
-# 
+# Principal JetBrains IntelliJ IDEA scripts para Mac OS | Instantáneo JetBrains IntelliJ IDEA scripts para PC Windows. Con colecciones de solicitudes y terminal integrada — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
